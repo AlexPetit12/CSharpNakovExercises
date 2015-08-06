@@ -1,0 +1,6 @@
+C:\Users\Alex\AppData\Local\Temporary Projects\Exercise6.01\bin\Release\Exercise6.01.exe
+C:\Users\Alex\AppData\Local\Temporary Projects\Exercise6.01\bin\Release\Exercise6.01.pdb
+C:\Users\Alex\AppData\Local\Temporary Projects\Exercise6.01\obj\x86\Release\Exercise6.01.exe
+C:\Users\Alex\AppData\Local\Temporary Projects\Exercise6.01\obj\x86\Release\Exercise6.01.pdb
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\NakovExercises\Chapter 6\Exercise6.01\Exercise6.01\obj\x86\Release\Exercise6.01.exe
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\NakovExercises\Chapter 6\Exercise6.01\Exercise6.01\obj\x86\Release\Exercise6.01.pdb
