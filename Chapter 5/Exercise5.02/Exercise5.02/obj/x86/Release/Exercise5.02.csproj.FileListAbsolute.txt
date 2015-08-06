@@ -1,0 +1,6 @@
+C:\Users\Alex\AppData\Local\Temporary Projects\Exercise5.02\bin\Release\Exercise5.02.exe
+C:\Users\Alex\AppData\Local\Temporary Projects\Exercise5.02\bin\Release\Exercise5.02.pdb
+C:\Users\Alex\AppData\Local\Temporary Projects\Exercise5.02\obj\x86\Release\Exercise5.02.exe
+C:\Users\Alex\AppData\Local\Temporary Projects\Exercise5.02\obj\x86\Release\Exercise5.02.pdb
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\NakovExercises\Chapter 5\Exercise5.02\Exercise5.02\obj\x86\Release\Exercise5.02.exe
+C:\Users\Alex\Documents\Visual Studio 2010\Projects\NakovExercises\Chapter 5\Exercise5.02\Exercise5.02\obj\x86\Release\Exercise5.02.pdb
